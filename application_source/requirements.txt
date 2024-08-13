@@ -1,0 +1,13 @@
+fastapi==0.112.0
+uvicorn
+sqlalchemy
+pydantic
+psycopg2
+passlib
+bcrypt== 4.0.1
+python-jose
+python-multipart
+pytest
+asyncpg
+pytest-asyncio
+pytest-xdist
